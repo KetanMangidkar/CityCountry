@@ -1,0 +1,16 @@
+{
+  "country": [
+    {
+      "Country": "India",
+      "City": "Dhule",
+      "Population": "500000",
+      "id": 1
+    },
+    {
+      "Country": "Afganisthan",
+      "City": "Kabul",
+      "Population": "120",
+      "id": 2
+    }
+  ]
+}
